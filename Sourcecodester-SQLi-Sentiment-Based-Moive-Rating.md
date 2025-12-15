@@ -1,4 +1,4 @@
-# SQL Injection vulnerability was discovered in Sourcecodester's Sentiment Based Movie Success Rating Prediction System  (movies)
+# (CVE-2024-52675)SQL Injection vulnerability was discovered in Sourcecodester's Sentiment Based Movie Success Rating Prediction System  (movies)
 
 Official Website: https://www.sourcecodester.com/php/15104/sentiment-based-movie-rating-system-using-phpoop-free-source-code.html
 
